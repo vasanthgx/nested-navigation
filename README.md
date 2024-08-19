@@ -34,4 +34,4 @@ Potential Use Cases:
 
 This component offers a flexible and efficient solution for displaying hierarchical data structures in a user-friendly, interactive format. Its modular design allows for easy integration into larger React applications, providing developers with a powerful tool for creating dynamic, nested menu systems.
 
-** [code explanation](notes/codeExplained.md) **
+** [code explanation](/notes/codeExplained.md) **
