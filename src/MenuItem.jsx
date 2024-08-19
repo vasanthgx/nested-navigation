@@ -6,7 +6,7 @@ export default function MenuItem({ item }) {
 
   return (
       <li>
-        Menu item
+        {item.label}
       </li>
   );
 }
